@@ -1,5 +1,6 @@
 """
 Bruno Gomes - 2020196556
+Valter - 2015129916
 
 matriz numpy é equivalente a [[[0] * 3] * width] * height
 """
